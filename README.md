@@ -31,67 +31,57 @@ Trevor, the head of the Treasury department at The Look Fintech, needs a dashboa
 
 ### Task 1: Get Started with Looker
 1. Navigate to the Developer Student’s folder and create a new dashboard named "Loan Insights."
-   ![1. Locate the folder](Capstone%20Project%20part%201.Locate%20the%20dataset.jpg)
+   ![Locate the folder](1.Capstone%20Project%20part%202.%20Task%201%20Locate%20the%20folder.jpg)
 2. Click Edit Dashboard to start adding charts and visualizations.
-   ![2. Clicked on new to create dashboard](Capstone%20Project%20part%201.Clicked%20on%20new%20to%20create%20dashboard.jpg)
-   ![3. Clicked the dashboard button](Capstone%20Project%20part%201.Clicked%20the%20dashboard%20button.jpg)
-   ![4. Created the new dashboard Loan insights](Capstone%20Project%20part%201.Created%20the%20new%20dashboard%20Loan%20insights.jpg)
-   ![5. Clicked new tile option](Capstone%20Project%20part%201.Clicked%20new%20tile%20option.jpg)
+   ![Clicked on new to create dashboard](2.Capstone%20Project%20part%202.%20Task%201%20Clicked%20on%20new%20to%20create%20dashboard.jpg)
+   ![Clicked the dashboard button](3.Capstone%20Project%20part%202.%20Task%201%20Clicked%20the%20dashboard%20button.jpg)
+   ![Created the new dashboard Loan insights](4.Capstone%20Project%20part%202.%20Task%201%20Created%20the%20new%20dashboard%20Loan%20insights.jpg)
+   ![Clicked new tile option](5.Capstone%20Project%20part%202.%20Task%201%20Clicked%20new%20tile%20option.jpg)
 
 ### Task 2: Build a Visualization for Total Outstanding Loans
 1. Add a tile and select Loan Details.
-   ![6. Explore Loan Details](Capstone%20Project%20part%201.Explore%20Loan%20Details.jpg)
+   ![Explore Loan Details](6.Capstone%20Project%20part%202.%20Task%202%20Explore%20Loan%20Details.jpg)
 2. Choose appropriate dimensions and measures.
-   ![7. Select outstanding loans amount](Capstone%20Project%20part%201.Select%20outstanding%20loans%20amount.jpg)
+   ![Select outstanding loans amount](7.Capstone%20Project%20part%202.%20Task%202%20Select%20outstanding%20loans%20amount.jpg)
 3. Create a visualization with a threshold for $3,000,000,000.
-   ![8. Select the single visualization tab](Capstone%20Project%20part%201.Select%20the%20single%20visualization%20tab.jpg)
-   ![9. Displayed the total outstanding loan amount](Capstone%20Project%20part%201.Displayed%20the%20total%20outstanding%20loan%20amount.jpg)
+   ![Select the single visualization tab](8.Capstone%20Project%20part%202.%20Task%202%20Select%20the%20single%20visualization%20tab.jpg)
+   ![Displayed the total outstanding loan amount](9.Capstone%20Project%20part%202.%20Task%202%20Displayed%20the%20total%20outstanding%20loan%20amount..jpg)
 4. Save the visualization as "Total Amount of Outstanding Loans."
-   ![10. Clicked on edit tab for conditional formatting](Capstone%20Project%20part%201.Clicked%20on%20edit%20tab%20for%20conditional%20formatting.jpg)
-   ![11. Toggle enable conditional formatting button](Capstone%20Project%20part%201.Toggle%20enable%20conditional%20formatting%20button.jpg)
-   ![12. Enable the conditional formatting by applying the rule](Capstone%20Project%20part%201.Enable%20the%20conditional%20formatting%20by%20applying%20the%20rule.jpg)
-   ![13. Saved the title of outstanding loan to dashboard](Capstone%20Project%20part%201.Saved%20the%20title%20of%20outstanding%20loan%20to%20dashboard.jpg)
+   ![Clicked on edit tab for conditional formatting](10.Capstone%20Project%20part%202.%20Task%202%20Clicked%20on%20edit%20tab%20for%20conditional%20formatting.jpg)
+   ![Toggle enable conditional formatting button](11.Capstone%20Project%20part%202.%20Task%202%20Toggle%20enable%20conditional%20formatting%20button.jpg)
+   ![Enable the conditional formatting by applying the rule](12.Capstone%20Project%20part%202.%20Task%202%20Enable%20the%20conditional%20formatting%20by%20applying%20the%20rule.jpg)
+   ![Saved the title of outstanding loan to dashboard](13.Capstone%20Project%20part%202.%20Task%202%20Saved%20the%20title%20of%20outstanding%20loan%20to%20dashboard.jpg)
 
 ### Task 3: Build a Visualization for Percentage of Outstanding Loans by Status
 1. Add a tile and select Loan Details.
-   ![14. Selected outstanding loans amount and loan status](Capstone%20Project%20part%201.Selected%20outstanding%20loans%20amount%20and%20loan%20status.jpg)
+   ![Selected outstanding loans amount and loan status](14.Capstone%20Project%20part%202.%20Task%203%20selected%20outstanding%20loans%20amount%20and%20loan%20status.jpg)
 2. Choose the appropriate dimension and measure.
-   ![15. Selected the visualization Pie chart](Capstone%20Project%20part%201.Selected%20the%20visualization%20Pie%20chart.jpg)
+   ![Selected the visualization Pie chart](15.Capstone%20Project%20part%202.%20Task%203%20selected%20the%20visualization%20Pie%20chart.jpg)
 3. Create a pie chart to show the percentage of each loan status.
-   ![16. Result shows loan status and loan amount](Capstone%20Project%20part%201.Result%20shows%20loan%20status%20and%20loan%20amount.jpg)
-   ![17. Full result in numeric terms](Capstone%20Project%20part%201.Full%20result%20in%20numeric%20terms.jpg)
+   ![Result shows loan status and loan amount](16.Capstone%20Project%20part%202.%20Task%203%20result%20shows%20loan%20status%20and%20loan%20amount.jpg)
+   ![Full result in numeric terms](17.Capstone%20Project%20part%202.%20Task%203%20Full%20result%20in%20numeric%20terms.jpg)
 4. Save the visualization as "Percentage of Outstanding Loans."
-   ![18. Added the percentage of outstanding loans to the dashboard](Capstone%20Project%20part%201.Added%20the%20percentage%20of%20outstanding%20loans%20to%20the%20dashboard.jpg)
+   ![Added the percentage of outstanding loans to the dashboard](18.Capstone%20Project%20part%202.%20Task%203%20added%20the%20percentage%20of%20outstanding%20loans%20to%20the%20dashboard.jpg)
 
 ### Task 4: Build a Visualization for Top 10 States with Highest Outstanding Loans
 1. Add a tile and select Loan Details.
-   ![19. Identify the measure and dimension to use](Capstone%20Project%20part%201.Identify%20the%20measure%20and%20dimension%20to%20use.jpg)
+   ![Identify the measure and dimension to use](19.Capstone%20Project%20part%202.%20Task%204%20identify%20the%20measure%20and%20dimension%20to%20use..jpg)
 2. Choose the appropriate dimension and measure.
-   ![20. Chose the visualization and run the query](Capstone%20Project%20part%201.Chose%20the%20visualization%20and%20run%20the%20query.jpg)
+   ![Chose the visualization and run the query](20.Capstone%20Project%20part%202.%20Task%204%20Chose%20the%20visualization%20and%20run%20the%20query.jpg)
 3. Create a bar chart to show the top 10 states.
-   ![21. Full result in numeric terms 10 states highest total count of outstanding loans](Capstone%20Project%20part%201.Full%20result%20in%20numeric%20terms%2010%20states%20highest%20total%20count%20of%20outstanding%20loans.jpg)
+   ![Full result in numeric terms 10 states highest total count of outstanding loans](21.Capstone%20Project%20part%202.%20Task%204%20Full%20result%20in%20numeric%20terms%2010%20states%20highest%20total%20count%20of%20outstanding%20loans.jpg)
 4. Save the visualization as "Total Count of Outstanding Loans."
-   ![22. Saved the result to dashboard outstanding loan by state](Capstone%20Project%20part%201.Saved%20the%20result%20to%20dashboard%20outstanding%20loan%20by%20state.jpg)
+   ![Saved the result to dashboard outstanding loan by state](22.Capstone%20Project%20part%202.%20Task%204%20Saved%20the%20result%20to%20dashboard%20outstanding%20loan%20by%20state.jpg)
 
 ### Task 5: Build a Visualization for Top 10 Customers by Highest Income
 1. Add a tile and select Loan and Customer views.
 2. Choose dimensions: Customer ID, Annual Income, State, Interest Rate.
-   ![23. Select the first dimension Customer ID](Capstone%20Project%20part%201.Select%20the%20first%20dimension%20Customer%20ID.jpg)
-   ![24. Selected the second dimension Annual Income](Capstone%20Project%20part%201.Selected%20the%20second%20dimension%20Annual%20Income.jpg)
-   ![25. Selected the third dimension State](Capstone%20Project%20part%201.Selected%20the%20third%20dimension%20State.jpg)
-   ![26. Selected the fourth dimension interest rate](Capstone%20Project%20part%201.Selected%20the%20fourth%20dimension%20interest%20rate%20jpg.jpg)
+   ![Select the first dimension Customer ID](23.Capstone%20Project%20part%202.%20Task%205%20select%20the%20first%20dimension%20Customer%20ID.jpg)
+   ![Selected the second dimension Annual Income](24.Capstone%20Project%20part%202.%20Task%205%20selected%20the%20second%20dimension%20Annual%20Income.jpg)
+   ![Selected the third dimension State](25.Capstone%20Project%20part%202.%20Task%205%20selected%20the%20third%20dimension%20State.jpg)
+   ![Selected the fourth dimension interest rate](26.Capstone%20Project%20part%202.%20Task%205%20selected%20the%20fourth%20dimension%20interest%20rate%20jpg.jpg)
 3. Create a table to show the top 10 customers.
-   ![27. Selected the visualization type for top 10 customers](Capstone%20Project%20part%201.Selected%20the%20visualization%20type%20for%20top%2010%20customers.jpg)
-   ![28. After running the query full result in numeric form](Capstone%20Project%20part%201.After%20running%20the%20query%20full%20result%20in%20numeric%20form.jpg)
+   ![Selected the visualization type for top 10 customers](27.Capstone%20Project%20part%202.%20Task%205%20selected%20the%20visualization%20type%20for%20top%2010%20customers.jpg)
+   ![After running the query full result in numeric form](28.Capstone%20Project%20part%202.%20Task%205%20after%20running%20the%20query%20full%20result%20in%20numeric%20form.jpg)
 4. Save the visualization as "Top 10 Customers by Highest Income."
-   ![29. Added the result to dashboard](Capstone%20Project%20part%201.Added%20the%20result%20to%20dashboard.jpg)
-
-### Task 6: Add Functionality to the Dashboard
-1. Enable cross-filtering by editing the dashboard and toggling the Cross-filtering option.
-   ![30. Enable cross filtering](Capstone%20Project%20part%201.Enable%20cross%20filtering.jpg)
-   ![31. Enabled cross filtering](Capstone%20Project%20part%201.Enabled%20cross%20filtering.jpg)
-2. Set the refresh rate for each visualization:
-   - Total Amount of Outstanding Loans: hourly
-   - Percentage of Outstanding Loans: daily
-   - Top 10 Customers by Highest Income: daily
-   ![32. Enabling auto refresh](Capstone%20Project%20part%201.Enabling%
+   ![Added the result to dashboard](29.Capstone%20Project%
