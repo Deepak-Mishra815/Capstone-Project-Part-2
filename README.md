@@ -42,7 +42,7 @@ Trevor, the head of the Treasury department at The Look Fintech, needs a dashboa
 1. Add a tile and select Loan Details.
    ![Explore Loan Details](6.Capstone%20Project%20part%202.%20Task%202%20explore%20Loan%20Details.jpg)
 2. Choose appropriate dimensions and measures.
-   ![Select outstanding loans amount](7.Capstone%20Project%20part%202.%20Task%202%20Select%20outstanding%20loans%20amount.jpg)
+   ![Select outstanding loans amount](7.Capstone%20Project%20part%202.%20Task%202%20select%20outstanding%20loans%20amount)
 3. Create a visualization with a threshold for $3,000,000,000.
    ![Select the single visualization tab](8.Capstone%20Project%20part%202.%20Task%202%20Select%20the%20single%20visualization%20tab.jpg)
    ![Displayed the total outstanding loan amount](9.Capstone%20Project%20part%202.%20Task%202%20Displayed%20the%20total%20outstanding%20loan%20amount..jpg)
