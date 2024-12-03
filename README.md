@@ -102,7 +102,9 @@ Trevor, the head of the Treasury department at The Look Fintech, needs a dashboa
 ![34. Capstone Project part 2.Final summary](34.Capstone%20Project%20part%202.%20Final%20summary.jpg) 
 
 
-## Conclusion As a cloud data analyst at The Look Fintech, I have successfully built the dashboard Trevor and their team need to monitor the status of loans. 
+## Conclusion 
+
+As a cloud data analyst at The Look Fintech, I have successfully built the dashboard Trevor and their team need to monitor the status of loans. 
 
 First, created a visualization to display the total amount of outstanding loans. 
 Second, created a visualization to display the total amount of outstanding loans by status. 
