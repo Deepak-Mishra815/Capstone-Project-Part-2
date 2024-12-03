@@ -84,4 +84,29 @@ Trevor, the head of the Treasury department at The Look Fintech, needs a dashboa
    ![Selected the visualization type for top 10 customers](27.Capstone%20Project%20part%202.%20Task%205%20selected%20the%20visualization%20type%20for%20top%2010%20customers.jpg)
    ![After running the query full result in numeric form](28.Capstone%20Project%20part%202.%20Task%205%20after%20running%20the%20query%20full%20result%20in%20numeric%20form.jpg)
 4. Save the visualization as "Top 10 Customers by Highest Income."
-   ![Added the result to dashboard](29.Capstone%20Project%
+   ![Added the result to dashboard](29.Capstone%20Project%20part%202.%20Task%205%20added%20the%20result%20to%20dashboard.jpg) 
+
+### Task 6: Add Functionality to the Dashboard 1. Enable cross-filtering by editing the dashboard and toggling the Cross-filtering option.
+[30. Enable cross filtering](30.Capstone%20Project%20part%202.%20Task%206%20Enable%20cross%20filtering.jpg) 
+[31. Enabled cross filtering](31.Capstone%20Project%20part%202.%20Task%206%20Enabled%20cross%20filtering.jpg) 
+
+### Task 7 Enabled and saved the result to the dashboard
+
+2. Set the refresh rate for each visualization: - Total Amount of Outstanding Loans: hourly - Percentage of Outstanding Loans: daily - Top 10 Customers by Highest Income: daily
+[32. Enabling auto refresh](32.Capstone%20Project%20part%202.%20Task%207%20Enabling%20auto%20refresh.jpg) 
+
+[33. Enabled and saved the result to the dashboard](33.Capstone%20Project%20part%202.%20Task%207%20Enabled%20and%20saved%20the%20result%20to%20the%20dashboard.jpg) 
+
+### Project Final Dashboard with updated summary 
+[34. Capstone Project part 2.Final summary](34.Capstone%20Project%20part%202.%20Final%20summary.jpg) 
+
+
+## Conclusion As a cloud data analyst at The Look Fintech, I have successfully built the dashboard Trevor and their team need to monitor the status of loans. 
+
+First, created a visualization to display the total amount of outstanding loans. 
+Second, created a visualization to display the total amount of outstanding loans by status. 
+Third, created a visualization to display the top 10 states with the highest total count of outstanding loans. 
+Fourth, created a visualization that displays customers who own their home outright and have “Current” loans. 
+Fifth, built a visualization for the top 10 customers by highest income. 
+Finally, enabled cross-filtering and automatic refreshes to make the dashboard more interactive and up-to-date.
+
